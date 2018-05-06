@@ -14,3 +14,5 @@ jQuery is included in the example index.html file though only because it is requ
 * event-bubbling - Provides examples and explains event bubbling and delegating in javascript.
 * local-session-storage - Provides example of using the local storage and session storage api in javascript.
 * constructors-this - Provides example basic constructors and this keyword usage in constructors using ES5.
+* built in constructors - Provides examples of built in constructors for String, Number, Object, Function, and more. Shows difference between object and primitive types.
+
