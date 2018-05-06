@@ -14,4 +14,4 @@ The goal is to provide different ways that you can interact with th dom without 
 * local-session-storage - Provides example of using the local storage and session storage api in javascript.
 * constructors-this - Provides example basic constructors and this keyword usage in constructors using ES5.
 * built in constructors - Provides examples of built in constructors for String, Number, Object, Function, and more. Shows difference between object and primitive types.
-
+* prototypes - Provides examples of Object Prototypes and adding methods to an objects prototype.
