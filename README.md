@@ -15,3 +15,7 @@ The goal is to provide different ways that you can interact with th dom without 
 * constructors-this - Provides example basic constructors and this keyword usage in constructors using ES5.
 * built in constructors - Provides examples of built in constructors for String, Number, Object, Function, and more. Shows difference between object and primitive types.
 * prototypes - Provides examples of Object Prototypes and adding methods to an objects prototype.
+* prototypical-inheritance - Provides examples of inheritance in javascript using prototypes.
+* object-create - Provides examples of ways you can create objects using Object.create.
+* es6-classes - Provides examples of creating objects using classes in ES6. 
+* es6-inheritance - Provides examples of inheriting/extending from classes in ES6.
