@@ -20,4 +20,5 @@ The goal is to provide different ways that you can interact with th dom without 
 * es6-classes - Provides examples of creating objects using classes in ES6. 
 * es6-inheritance - Provides examples of inheriting/extending from classes in ES6.
 * xhr-objects-text - Provides example of working with a pure XHR Object in JavaScript (without the fetch API yet) to load in a text file.
+* ajax-json - Provides example of working with JSON data from an XHR Object. Including a single JSON Object, and an array of JSON objects.
 
