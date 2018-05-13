@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "sku": "11234",
+        "productName": "Computer Monitor"
+    },
+    {
+        "id": 2,
+        "sku": "12345",
+        "productName": "Computer Hardrive"
+    },
+    {
+        "id": 3,
+        "sku": "17415",
+        "productName": "Computer Processor"
+    }
+]
