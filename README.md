@@ -19,3 +19,5 @@ The goal is to provide different ways that you can interact with th dom without 
 * object-create - Provides examples of ways you can create objects using Object.create.
 * es6-classes - Provides examples of creating objects using classes in ES6. 
 * es6-inheritance - Provides examples of inheriting/extending from classes in ES6.
+* xhr-objects-text - Provides example of working with a pure XHR Object in JavaScript (without the fetch API yet) to load in a text file.
+
