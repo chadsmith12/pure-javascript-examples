@@ -22,4 +22,6 @@ The goal is to provide different ways that you can interact with th dom without 
 * xhr-objects-text - Provides example of working with a pure XHR Object in JavaScript (without the fetch API yet) to load in a text file.
 * ajax-json - Provides example of working with JSON data from an XHR Object. Including a single JSON Object, and an array of JSON objects.
 * fetch-api - Provides example of working with the new fetch API instead of an XMLHttpRequest object, and working with promises.
+* regex-evalating functions - Provides example of how you can evaluate regex.
+* regex-metacharacters- Provides different examples of some basic regex metacharacters and rules and what they mean.
 
